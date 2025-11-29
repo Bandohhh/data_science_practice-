@@ -1,4 +1,4 @@
-✅ Completed Work
+✅ Completed Work - please bare in mind that this is an ongoing project 
 
  Credit Risk Model  
 - A mini-project that builds a credit-risk (or binary classification) pipeline.  
