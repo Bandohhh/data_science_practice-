@@ -46,3 +46,11 @@ I created this repository to give myself a space to:
 ```bash
 git clone https://github.com/Bandohhh/data_science_practice-.git
 cd data_science_practice-
+
+🔧 Intended Evolution
+Goal	What I aim to show / learn
+Robust ML pipeline	Data ingestion → cleaning → training → evaluation + metric output
+Reproducibility	Clean project structure, dependency management, documentation
+Code clarity & testing	Modular code, docstrings, unit/smoke tests
+Data science fundamentals	From Python basics to model building & evaluation
+Portfolio readiness	Shareable, understandable work — usable for coursework or job applications
